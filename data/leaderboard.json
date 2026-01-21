@@ -1,0 +1,14 @@
+[
+  { "rank": 1, "username": "ShadowFox", "totalWager": 128450, "reward": 300 },
+  { "rank": 2, "username": "CrimsonAce", "totalWager": 112300, "reward": 150 },
+  { "rank": 3, "username": "Nebula", "totalWager": 99800, "reward": 50 },
+  { "rank": 4, "username": "Vortex", "totalWager": 87420, "reward": 900 },
+  { "rank": 5, "username": "NightOwl", "totalWager": 75890, "reward": 700 },
+  { "rank": 6, "username": "IronWolf", "totalWager": 64010, "reward": 500 },
+  { "rank": 7, "username": "Zenith", "totalWager": 53330, "reward": 350 },
+  { "rank": 8, "username": "Aurora", "totalWager": 42050, "reward": 250 },
+  { "rank": 9, "username": "Pyro", "totalWager": 35500, "reward": 150 },
+  { "rank": 10, "username": "Echo", "totalWager": 29440, "reward": 100 }
+]
+
+

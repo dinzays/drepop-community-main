@@ -1,0 +1,24 @@
+=== VERIFICATION: Period Transition Check ===
+
+Period 2025-12-10: 342 snapshots
+Period 2026-01-09: 346 snapshots
+
+--- Sample User Data ---
+
+User: hatiim11
+Current Lifetime Wager: 0.00
+
+Snapshots:
+  [CLOSED] 2025-11-10:
+    Start: 0.00
+    End: 0.00
+  [CLOSED] 2025-12-10:
+    Start: 0.00
+    End: 0.00
+  [ONGOING] 2026-01-09:
+    Start: 0.00
+    End: null (ongoing)
+
+--- Validation ---
+✓ Previous period (2025-12-10) is CLOSED
+✓ New period (2026-01-09) is ONGOING
