@@ -29,7 +29,7 @@ export default function SportPageClient() {
 
     // Real leaderboard data from Shuffle
     const rawData = [
-        { username: 'Anas1821', wins: 24, priceOfWins: 199.73 },
+        { username: 'Anas1821', wins: 24, priceOfWins: 199.74 },
         { username: 'adamelajrabi', wins: 8, priceOfWins: 82.635 },
         { username: 'B3LOLA', wins: 1, priceOfWins: 20.465 },
         { username: 'ZBELBOULA', wins: 1, priceOfWins: 75 },
