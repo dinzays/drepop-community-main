@@ -33,7 +33,7 @@ export default function SportPageClient() {
         { username: 'adamelajrabi', wins: 8, priceOfWins: 82.635 },
         { username: 'B3LOLA', wins: 1, priceOfWins: 20.465 },
         { username: 'ZBELBOULA', wins: 1, priceOfWins: 75 },
-        { username: 'MOLTMR', wins: 0, priceOfWins: 0 },
+        { username: 'MOLTMR', wins: 1, priceOfWins: 2.10 },
         { username: 'erritox', wins: 0, priceOfWins: 0 },
         { username: 'Moncefking', wins: 0, priceOfWins: 0 },
 
